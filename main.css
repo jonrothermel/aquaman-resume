@@ -1,0 +1,9 @@
+h1 { /* CSS tagname selector */
+	color: red;
+	font-family: Helvetica;
+	font-size: 55px;
+}
+body {
+	font-family: Helvetica;
+	font-size: 12px;
+}
